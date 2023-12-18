@@ -1,0 +1,50 @@
+.header__title > h1,
+.button.button--outline,
+.button.button--outline,
+.btn.button--outline,
+.collection__item .item__price > a,
+.header__title > h2,
+.article__item .article__footer > .article__read-more,
+.site-nav > li > .site-nav__link:hover,
+.site-nav > li > .site-nav__link:focus {
+  color: #c3a07d;
+}
+
+.site-nav {
+  border-top: 1px solid #c3a07d !important;
+}
+
+.button.button--outline,
+.button.button--outline,
+.btn.button--outline {
+  border: 1px solid #c3a07d !important;
+}
+
+.homepage-press-reviews > h2 {
+  border-bottom: 1px solid #c3a07d;
+}
+
+#footer-newsletter-section
+  .activecampaign
+  ._inline-form
+  ._button-wrapper
+  ._submit {
+  border: 1px solid #c3a07d !important;
+  background: #c3a07d !important;
+}
+
+.site-promo,
+.button.button--outline:hover,
+button.button--outline:focus,
+.button.button--outline:hover,
+.button.button--outline:focus,
+.btn.button--outline:hover,
+.btn.button--outline:focus,
+.site-nav .site-nav__dropdown .site-nav__link:after {
+  background: #c3a07d !important;
+}
+
+.site-nav .site-nav__dropdown .site-nav__link.item--active,
+.site-nav .site-nav__dropdown .site-nav__link:hover {
+  color: #c3a07d;
+}
